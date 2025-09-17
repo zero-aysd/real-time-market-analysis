@@ -181,3 +181,17 @@ if __name__ == "__main__":
    - Artifacts: `news.txt`, `raw_news.json`, `sentiment_output.json`
 
 ### Ouputs
+    
+    {
+        "company_name":"Alphabet Inc.",
+        "stock_code":"GOOG",
+        "newsdesc":"Shares of Google parent Alphabet surged to a record high on news that Gemini became the No. 1 free app in the U.S. Apple Store, overtaking OpenAI's ChatGPT. The stock climbed more than 4.5% to close at 251.61, giving Google a valuation of over $3 trillion. A favorable antitrust ruling also contributed to the stock's rise.",
+        "sentiment":"Positive",
+        "people_names":["Justin Patterson","Sundar Pichai","Donald Trump","Amit Mehta"],
+        "places_names":["U.S.","Mountain View, California"],
+        "other_companies_referred":["Apple","Microsoft","Nvidia","OpenAI"],
+        "related_industries":["Technology","Artificial Intelligence","Cloud Computing"],
+        "market_implications":"The surge in stock price and market cap indicates strong investor confidence, particularly in Google's AI capabilities with the Gemini app. This could lead to increased investment interest and potential market share growth in AI and cloud services.",
+        "confidence_score":0.9
+        }
+    
