@@ -1,0 +1,8 @@
+mlflow
+langchain_community
+langchain_openai
+langchain
+langhcain_exa
+yfinance
+python-dotenv
+streamlit
